@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vishal-innovation/blogpost.git/static/css/main.299e8798.css",
+    "main.js": "/vishal-innovation/blogpost.git/static/js/main.000f02e9.js",
+    "static/js/787.adde0651.chunk.js": "/vishal-innovation/blogpost.git/static/js/787.adde0651.chunk.js",
+    "index.html": "/vishal-innovation/blogpost.git/index.html",
+    "main.299e8798.css.map": "/vishal-innovation/blogpost.git/static/css/main.299e8798.css.map",
+    "main.000f02e9.js.map": "/vishal-innovation/blogpost.git/static/js/main.000f02e9.js.map",
+    "787.adde0651.chunk.js.map": "/vishal-innovation/blogpost.git/static/js/787.adde0651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299e8798.css",
+    "static/js/main.000f02e9.js"
+  ]
+}
